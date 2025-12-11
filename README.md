@@ -4,7 +4,7 @@
 
 ## 🔧 About Me
 
-I'm Parsa, an Electrical Engineering enthusiast with a passion for low-level programming and hardware. I enjoy diving deep into how things work at the fundamental level.
+I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a hardware or software. Seeking for solving problems, from software level to fundamental level.
 
 ## 💡 Interests
 
@@ -17,7 +17,7 @@ I'm Parsa, an Electrical Engineering enthusiast with a passion for low-level pro
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -32,16 +32,11 @@ I'm Parsa, an Electrical Engineering enthusiast with a passion for low-level pro
 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000)
-
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-nedaei)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsanedaei.2001@gmail.com)
 ---
 
 ⚡ *"In hardware we trust, in software we debug"*
