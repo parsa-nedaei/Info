@@ -1,6 +1,6 @@
 ![Pixel Banner](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=125&lines=Hi%2C+it's+Parsa...;an+amateur+Electrical+Engineer+who+likes+to+build+stuffs...;Interested+in+kernel+development%2C+embedded+systems%2C+and+semiconductors...)
 
-## 🔧 About Me
+## 🦀 About Me
 
 I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a hardware or software. Seeking for solving problems, from software level to fundamental level.
 
@@ -9,7 +9,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 - **🐧 Kernel Development** - Exploring the inner workings of operating systems
 - **⚡ Embedded Systems & Circuit Desing** - Building projects with microcontrollers and real-time systems
 - **🔬 Semiconductors** - Understanding the physics and design of electronic components
-- **🔮 Quantum Computing & Information** - Diving into quantum algorithms and information theory
+- **⚛️ Quantum Computing & Information** - Diving into quantum algorithms and information theory
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🛠️ Other Tools
+### ⚙️ Other Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=White)
 
-## 🐧 Machines
+## 💻 Machines
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -41,6 +41,8 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 <a href="./certificates/LFS101/lfs101-certificate.pdf">
   <img src="./certificates/LFS101/lfs101-badge.png" width="250">
 </a>
+
+(Click the badge to open certificate)
 
 ## 📫 Let's Connect
 
