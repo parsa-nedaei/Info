@@ -53,5 +53,4 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
 ---
-
-⚡ *"In hardware we trust, in software we debug"*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=35&duration=3000&pause=1000&color=F7D800&center=true&vCenter=true&width=700&lines=In+software+we+debug%2C+In+hardware+we+trust)](https://git.io/typing-svg)
