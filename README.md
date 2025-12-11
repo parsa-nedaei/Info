@@ -38,6 +38,12 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🏆 Certifide Badges
+
+<a href="./certificates/LFS101/lfs101-certificate.pdf">
+  <img src="./certificates/LFS101/lfs101-badge.png" width="200">
+</a>
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-nedaei)
