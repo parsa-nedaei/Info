@@ -1,4 +1,5 @@
-![Pixel Banner](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=125&lines=Hi%2C+it's+Parsa...;an+amateur+Electrical+Engineer+who+likes+to+build+stuffs...;Interested+in+kernel+development%2C+embedded+systems%2C+and+semiconductors...)
+![Developer Banner 7](https://ishan-rest.vercel.app/svg/banner/dev7/parsa-nedaei/Welcome_To_My_Repo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&duration=3000&pause=1000&color=02F78F&center=true&vCenter=true&multiline=true&width=1400&height=125&lines=Hi%2C+it's+Parsa;an+amateur+Electrical+Engineer+who+likes+to+build+stuffs;Interested+in+Kernel+Development%2C+Embedded+Systems%2C+and+Semiconductors)](https://git.io/typing-svg)
 
 ## 🦀 About Me
 
