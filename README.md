@@ -13,23 +13,23 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 - **⚛️ Quantum Computing & Information** - Diving into quantum algorithms and information theory
 
 ## 🛠️ Tech Stack
-![Rust](https://img.shields.io/badge/Rust-C45508?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### ⚙️ Primary Tools
+[![My Skills](https://skillicons.dev/icons?i=rust,c,bash,linux&perline=13)](#)
+
+### 🪛 Secondary Tools
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=asm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-> ⚙️ Other Tools
+
+> 🔩 Other Tools
 > 
 > [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-> [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 > [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 > [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ## 💻 Machines
-
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ## ✏️ Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
