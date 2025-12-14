@@ -39,11 +39,22 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 
 ## 🏆 Certifide Badges
 
-<a href="./certificates/LFS101/lfs101-certificate.pdf">
-  <img src="./certificates/LFS101/lfs101-badge.png" width="250">
-</a>
+<table align="center">
+<tr> 
+    <th>
+      <a href="./certificates/LFS101/lfs101-certificate.pdf"> 
+        <img src="./certificates/LFS101/lfs101-badge.png" width="200"> 
+      </a>
+    </th>
+    <th>
+      <a href="./certificates/LFEL1002/lfel1002-certificate.pdf"> 
+        <img src="./certificates/LFEL1002/lfel1002-badge.png" width="200">
+      </a>
+    </th>
+</tr>  
+</table>
 
-(Click the badge to open certificate)
+*Click the badge to open certificate*
 
 ## 📫 Let's Connect
 
