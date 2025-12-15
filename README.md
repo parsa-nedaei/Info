@@ -7,7 +7,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 
 ## 💡 Interests
 
-- **🐧 Kernel Development** - Exploring the inner workings of operating systems
+- **🐧 Kernel Development Enthusiast** - Exploring the inner workings of operating systems
 - **⚡ Embedded Systems & Circuit Desing** - Building projects with microcontrollers and real-time systems
 - **🔬 Semiconductors** - Understanding the physics and design of electronic components
 - **⚛️ Quantum Computing & Information** - Diving into quantum algorithms and information theory
